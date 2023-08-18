@@ -1,0 +1,35 @@
+checked exception and unchecked exception 
+
+checked exception - the exception which are checked by compiler for smooth execution of program at runtime is called checked exception
+
+
+
+
+
+
+unchecked exception - the exception which are not checked by compiler and it directly taken care by JVM is called unchecked
+
+                
+                
+------------------------------------------------------------------------------------
+
+  how to handle exceptions 
+  methods->try,catch,throw,throws,finally.
+  
+  
+          by handling exception we can execute our program till last.
+-------------------------------------------------------------
+
+Exception hierarchy
+
+throwable is superclass or root class of jaca exception hierarchy
+
+                    throwable(Superclass)
+                    
+       Exception(subclass)         Error(subclass)
+      -Runtime Exception	  -StackOverFlow Error
+      -IO Exception		  -Outofmemory Error
+      -Sql Exception 		  -IO error
+      -Interrupted Exception	  -Linkage error
+      -ClassNotFound Exception
+   --------------------------------------------------------------   
