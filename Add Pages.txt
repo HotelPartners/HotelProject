@@ -1,4 +1,0 @@
-Add and remove Address button
-Add and remove Employee button
-Add and remove item and Category in Menu 
-
